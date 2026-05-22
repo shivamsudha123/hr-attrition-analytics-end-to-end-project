@@ -15,6 +15,9 @@
 
 7. Recommendations were provided to improve employee retention and workforce management.
 
+## Download Report Pdf 
+[Download Report Pdf](https://github.com/shivamsudha123/hr-attrition-analytics-end-to-end-project/blob/77d81f51807356b32aa369f4eaf43761c60d7d4e/Report/Report%20.pdf)
+
 ![Dashboard](https://github.com/shivamsudha123/hr-attrition-analytics-end-to-end-project/blob/97e5ee48878e7257230ea17326f856e5cde295a8/Dashboard%20images/Image%201%20.png)
 
 
