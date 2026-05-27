@@ -141,7 +141,7 @@ SELECT
 		       ELSE 25 
 		  END AS Distance_group,
 		  ROUND(
-                SUM(CASE WHEN attrition ='Yes' THEN 1 ELSE 0 END)*100.0/ COUNT(*),0) AS attrition_rate_percentage
+                SUM(CASE WHEN attrition ='Yes' THEN 1 ELSE 0 END)*100.0/ COUNT(*),0) AS attrition_rate
 				FROM hr_analysis
 	GROUP BY 
 	        CASE 
